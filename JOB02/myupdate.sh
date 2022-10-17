@@ -1,0 +1,2 @@
+echo sudo apt update
+
